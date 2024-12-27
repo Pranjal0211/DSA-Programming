@@ -1,4 +1,5 @@
 # Count digits in a number
+
 Example 1:
 Input:N = 12345
 Output:5
